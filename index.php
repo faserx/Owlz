@@ -14,7 +14,7 @@ $CMS = new CMS;
     <meta name="description" content="Piero Aiello Dev ispired at bootstrap Basic Theme">
     <meta name="author" content="Piero Aiello">
     <link rel="icon" href="http://faserx.it/assets/img/favicon.ico">
-    <title>Piero Aiello Developer</title>
+    <title>Your Title</title>
 	<!-- for navbar -->
     <link href="assets/css/grayscale.css" rel="stylesheet">
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -51,7 +51,7 @@ $CMS = new CMS;
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#home">
-                    <span class="light">Piero Aiello Dev</span> 
+                    <span class="light">Your Title</span> 
                 </a>
             </div>
            <div class="navbar-collapse navbar-right navbar-main-collapse collapse" aria-expanded="false" style="height: 1px;">
@@ -70,7 +70,7 @@ $CMS = new CMS;
       <div class="container centered">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h1>Hello, my name is <b>Piero Aiello</b>.<br>I create for the web.</h1>
+            <h1Your Slogqn.</h1>
           </div>
         </div><!--/row-->
 
