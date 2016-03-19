@@ -12,7 +12,7 @@ class CMS
 	{
 		global $db_user;
 		global $db_pass;
-		$this->DB = new PDO("mysql:host=localhost;dbname=cms", $db_user, $db_pass);
+		$this->DB = new PDO("mysql:host=localhost;dbname=0wlz", $db_user, $db_pass);
 	}
 	public function create_page($nome, $contenuto)
 	{
